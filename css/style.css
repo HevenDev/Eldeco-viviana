@@ -104,14 +104,14 @@ h6 {
 }
 
 .primary-btn {
-    border-radius: unset;
+/*     border-radius: unset; */
     border: 2px solid #000000;
     background-color: #000000;
     padding: 10px 24px;
     color: #ffffff;
     margin-right: 10px;
     font-size: 16px;
-    border-radius: 6px;
+/*     border-radius: 6px; */
     text-transform: uppercase;
     display: flex;
     border-radius: 50px;
@@ -432,7 +432,7 @@ img.navbar-logo.logo-original {
 .form-control {
     display: block;
     width: 100%;
-    height: calc(1.5em + .75rem + 2px);
+/*     height: calc(1.5em + .75rem + 2px); */
     padding: .375rem .75rem;
     font-size: 1rem;
     font-weight: 400;
@@ -1660,7 +1660,7 @@ img.mfp-img {
 
 
     .mobile-section {
-        display: block;
+/*         display: block; */
         background: #1e394a;
         display: flex;
         justify-content: space-between;
