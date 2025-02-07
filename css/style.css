@@ -340,15 +340,15 @@ img.navbar-logo.logo-original {
 .banner {
     background: url('../images/bg.webp');
     position: relative;
-    padding: 100px 0px 0px 0px;
+    padding: 100px 0px 0px;
 }
 
 .banner .carousel-inner {
-    border-radius: 0px 40px 0px 40px;
+    border-radius: 0px 40px;
 }
 
 .banner .carousel-inner img {
-    border-radius: 0px 40px 0px 40px;
+    border-radius: 0px 40px;
 }
 
 .banner-content p {
@@ -456,7 +456,7 @@ img.navbar-logo.logo-original {
     letter-spacing: 1px;
     color: #464646;
     font-family: "GothamMedium";
-    margin: 24px 0px 0px 0px;
+    margin: 24px 0px 0px;
 }
 
 ul.key-highlights {
@@ -531,7 +531,7 @@ ul.key-highlights li i {
 .overview .overview-img img {
     width: 80%;
     object-fit: cover;
-    border-radius: 40px 0px 40px 0px;
+    border-radius: 40px 0px;
 }
 
 .overview-description {
@@ -571,7 +571,7 @@ ul.key-highlights li i {
     padding: 18px;
     display: flex;
     justify-content: center;
-    border-radius: 0px 10px 0px 10px;
+    border-radius: 0px 10px;
     align-items: center;
 }
 
@@ -660,14 +660,14 @@ ul.key-highlights li i {
 
 .price-list-box {
     background-color: #F9F9F9;
-    border-radius: 0px 20px 0px 20px;
+    border-radius: 0px 20px;
 }
 .prices-box {
     padding: 22px;
 }
 .price-list-price {
     border-bottom: 1px solid #EDEDED;
-    padding: 0px 0px 10px 0px;
+    padding: 0px 0px 10px;
 }
 .price-list-price h4{
     font-size: 30px;
@@ -831,7 +831,7 @@ font-size: 18px;text-align: justify;word-spacing: 1px;text-transform: capitalize
     padding: 0px 80px 0px 0px;
 }
 .location-map {
-    margin: 80px 0px 0px 0px;
+    margin: 80px 0px 0px;
 }
 .location .title h2 {
     font-size: 36px;
@@ -841,7 +841,7 @@ font-size: 18px;text-align: justify;word-spacing: 1px;text-transform: capitalize
 }
 .location-map img {
     width: 100%;
-    border-radius: 0px 20px 0px 20px;
+    border-radius: 0px 20px;
 }
 
 /* location map css ends */
@@ -921,7 +921,7 @@ font-size: 18px;text-align: justify;word-spacing: 1px;text-transform: capitalize
 /* footer css starts */
 footer{
     background: url('../images/bg.webp') no-repeat center bottom;
-    padding: 80px 0px 40px 0px;
+    padding: 80px 0px 40px;
     background-size: cover;
 }
 
@@ -1540,7 +1540,7 @@ img.mfp-img {
     }
 
     .location-map {
-        margin: 80px 0px 0px 0px;
+        margin: 80px 0px 0px;
     }
 
     .amenities .amen-sec .content {
@@ -1585,7 +1585,7 @@ img.mfp-img {
     }
 
     .banner {
-        padding: 88px 0px 0px 0px;
+        padding: 88px 0px 0px;
     }
     .banner .form-control {
         height: 32px;
@@ -1655,7 +1655,7 @@ img.mfp-img {
     .navbar-collapse{
         background: #1e394a;
         padding-bottom: 15px;
-        border-radius:  0 15px 0 15px;
+        border-radius:  0 15px;
     }
 
 
@@ -1699,7 +1699,7 @@ img.mfp-img {
     }
 
     footer {
-        padding: 60px 0px 0px 0px;
+        padding: 60px 0px 0px;
     }
 
     .builder-content {
@@ -1726,11 +1726,11 @@ img.mfp-img {
     }
 
     .location-map {
-        margin: 30px 0px 0px 0px;
+        margin: 30px 0px 0px;
     }
 
     .l_advantages {
-        margin: 20px 0px 30px 0px;
+        margin: 20px 0px 30px;
     }
 
     .location .title h2 {
@@ -1763,7 +1763,7 @@ img.mfp-img {
     }
 
     .banner {
-        padding: 74px 0px 0px 0px;
+        padding: 74px 0px 0px;
     }
 
     img.navbar-logo.logo-original {
@@ -1809,7 +1809,7 @@ img.mfp-img {
     }
 
     .highlights {
-        padding: 60px 0px 0px 0px;
+        padding: 60px 0px 0px;
     }
 
     .highlights .side-heading {
